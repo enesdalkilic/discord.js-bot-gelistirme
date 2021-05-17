@@ -1,0 +1,15 @@
+{
+  "name": "ogretici-bot",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "streoidvoid",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2"
+  }
+}
